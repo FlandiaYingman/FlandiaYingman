@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+Hi, I'm Flandia Yingman, currently a high school student and interested in programming! 
+
+### 🔭 I’m currently working on ...
+
+- [Ark Recognizer](https://github.com/FlandiaYingman/ark-recognizer): Recognizes the type and number of items from Arknights screenshots.
+- [kwormhole](https://github.com/FlandiaYingman/kwormhole): A tool to help synchronize files between machines.
+
+### 🌱 I’m currently learning ...
+
+What I've already been familiar with, but also wanted to study further...
+
+ - Kotlin Programming Language: https://kotlinlang.org/
+ - Java Programming Language: https://www.java.com/
+ - Git SCM: https://git-scm.com/
+
+And I'm new to...
+
+- Javascript & Typescript Programming Language: https://www.javascript.com/ & https://www.typescriptlang.org/
+- Go Programming Language: https://go.dev/
+
 <!--
 **FlandiaYingman/FlandiaYingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
