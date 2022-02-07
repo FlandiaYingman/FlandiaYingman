@@ -20,6 +20,13 @@ And I'm new to...
 - Javascript & Typescript Programming Language: https://www.javascript.com/ & https://www.typescriptlang.org/
 - Go Programming Language: https://go.dev/
 
+### 👯 I’m looking to collaborate on ...
+
+ - [Tom Clancy's Rainbow Six Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege) (CO-OP PvP FPS🔫 Video Game)
+ - [Tom Clancy's Rainbow Six Extraction](https://www.ubisoft.com/en-us/game/rainbow-six/extraction) (CO-OP PvE FPS🔫 Video Game)
+
+These games are terrific! I'm currently gold rank in Siege and diamond rank in Extraction.
+
 <!--
 **FlandiaYingman/FlandiaYingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
