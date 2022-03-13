@@ -4,8 +4,8 @@ Hi, I'm Flandia Yingman, currently a high school student and interested in progr
 
 ### 🔭 I’m currently working on ...
 
+- [arkwaifu](https://github.com/FlandiaYingman/arkwaifu): A website showing all Arknights assets (including AVG images and backgrounds currently).
 - [Auto Ark](https://github.com/FlandiaYingman/auto-ark): An automatic tool to help completing your Arknights daily routine.
-- [kwormhole](https://github.com/FlandiaYingman/kwormhole): A tool to help synchronize files between machines.
 
 ### 🌱 I’m currently learning ...
 
