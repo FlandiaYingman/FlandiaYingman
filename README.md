@@ -2,6 +2,8 @@
 
 Hi, I'm Flandia Yingman, currently a high school student and interested in programming! 
 
+#### I'm now busy on my studies. Wouldn't AFK, but not active.
+
 ### 🔭 I’m currently working on ...
 
 - [arkwaifu](https://github.com/FlandiaYingman/arkwaifu): A website showing all Arknights assets (including AVG images and backgrounds currently).
