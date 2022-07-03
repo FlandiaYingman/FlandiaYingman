@@ -1,26 +1,29 @@
 ### Hi there 👋
 
-Hi, I'm Flandia Yingman, currently a high school student and interested in programming! 
+Hey! I'm *Flandia Yingman*, a high school student and interested in programming! 
 
-#### I'm now busy on my studies. Wouldn't AFK, but not active.
+Also call me *孔明亲* ! That's the nickname I usually use on Chinese websites. Or you wanna be a littlebit formal, then call me by my real name - *Harry Li Yu-hong* (yes I'm Hongkonger)!
+
+I love to make friends 👭! If you wish, just follow me on GitHub or open an issue in this repo!
+
+I'm preparing HKDSE (Hong Kong Diploma of Secondary Education) for now, so I wouldn't be active in the coming months (likely July 2022 - May 2023).
+
+### Why "Flandia Yingman"? 
+
+It's from a old light novel. Not quite wanna disclose it! 
+
+From Flandre Scarlet? Almost, but no 😀.
 
 ### 🔭 I’m currently working on ...
 
-- [arkwaifu](https://github.com/FlandiaYingman/arkwaifu): A website showing all Arknights assets (including AVG images and backgrounds currently).
-- [Auto Ark](https://github.com/FlandiaYingman/auto-ark): An automatic tool to help completing your Arknights daily routine.
+- [Arkwaifu](https://github.com/FlandiaYingman/arkwaifu): The website lists all AVG assets in the game Arknights, as the webmaster
+
+- [Penguin Stats](https://github.com/penguin-statistics/backend-next): The Penguin Stats website (penguin-stats.io), as an amateur reviewer.
 
 ### 🌱 I’m currently learning ...
 
-What I've already been familiar with, but also wanted to study further...
-
- - English Language 😟. (Whenever you find me making some mistakes in English, tell me via an issue or pull request please!)
- - Kotlin Programming Language: https://kotlinlang.org/
- - Git SCM: https://git-scm.com/
-
-And I'm new to...
-
-- Javascript & Typescript Programming Language: https://www.javascript.com/ & https://www.typescriptlang.org/
-- Go Programming Language: https://go.dev/
+ - English Language 😟. (so there might be multiple grammar problems in this document! )
+ - Algebra and Calculus 🤪. (almost crazy)
 
 ### 👯 I’m looking to collaborate on ...
 
@@ -28,6 +31,10 @@ And I'm new to...
  - [Tom Clancy's Rainbow Six Extraction](https://www.ubisoft.com/en-us/game/rainbow-six/extraction) (CO-OP PvE FPS🔫 Video Game)
 
 These games are terrific! I'm currently gold rank in Siege and diamond rank in Extraction.
+
+- [Arknights](https://ak.hypergryph.com/) (CN server)
+
+My lovely favorite mobile game! I have met lots of friends through this game. XD
 
 <!--
 **FlandiaYingman/FlandiaYingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
