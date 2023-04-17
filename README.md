@@ -6,7 +6,7 @@ Also call me *孔明亲* ! That's the nickname I usually use on Chinese websites
 
 I love to make friends 👭! If you wish, just follow me on GitHub or open an issue in this repo!
 
-I'm preparing HKDSE (Hong Kong Diploma of Secondary Education) for now, so I wouldn't be active in the coming months (likely July 2022 - May 2023).
+I'm <del>preparing HKDSE<del/> taking (Hong Kong Diploma of Secondary Education) for now, so I wouldn't be very active (till 8 May, 2023).
 
 ### Why "Flandia Yingman"? 
 
