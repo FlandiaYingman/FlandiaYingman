@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-Hey! I'm *Flandia Yingman*, a high school student and interested in programming! 
+Hey! I'm *Flandia Yingman*, <del>a high school student</del> hmm... someone waiting for my university course to start, and interested in art, computing and programming! 
 
-Also call me *孔明亲* ! That's the nickname I usually use on Chinese websites. Or you wanna be a littlebit formal, then call me by my real name - *Harry Li Yu-hong* (yes I'm Hongkonger)!
+Also call me *孔明亲* ! That's the nickname I usually use on Chinese websites. Or you wanna be a littlebit formal, then call me by my real name - *Harry Li Yu-hong*!
 
 I love to make friends 👭! If you wish, just follow me on GitHub or open an issue in this repo!
-
-I'm <del>preparing</del> taking HKDSE (Hong Kong Diploma of Secondary Education) for now, so I wouldn't be very active (till 8 May, 2023).
 
 ### Why "Flandia Yingman"? 
 
 It's from a old light novel. Not quite wanna disclose it! 
 
-From Flandre Scarlet? Almost, but no 😀.
+Flandre Scarlet? Almost, but no 😀.
 
 ### 🔭 I’m currently working on ...
 
@@ -22,7 +20,7 @@ From Flandre Scarlet? Almost, but no 😀.
 
 ### 🌱 I’m currently learning ...
 
- - English Language 😟. (so there might be multiple grammar problems in this document! )
+ - English Language 😟.
  - Algebra and Calculus 🤪. (almost crazy)
 
 ### 👯 I’m looking to collaborate on ...
