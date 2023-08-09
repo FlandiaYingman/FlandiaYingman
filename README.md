@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I'm *Flandia Yingman*, <del>a high school student</del> hmm... someone waiting for my university course to start, and interested in art, computing and programming! 
+Hey! I'm *Flandia Yingman*, an undergraduate at HKUST in ENGG+AI, interested in art, computing and programming! 
 
 Also call me *孔明亲* ! That's the nickname I usually use on Chinese websites. Or you wanna be a littlebit formal, then call me by my real name - *Harry Li Yu-hong*!
 
