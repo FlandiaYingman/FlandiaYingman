@@ -1,33 +1,25 @@
 ### Hi there 👋 
 
-Hey! I'm **Flandia Yingman**, an undergraduate at HKUST in ENGG+AI (COMP+AI in the future), interested in art, computing and programming! 
+Hey! I'm an undergraduate at HKUST majored in Computer Science, interested in art, computing and programming! 
 
-**Flandia Yingman** and **孔明亲** both are the nicknames I usually use for online surfing. **Flandia Yingman** is mostly used on English websites, while **孔明亲** is more likely used on Chinese websites. By the way, my legal name is **LI, Yu Hong Harry**, and feel free to call me by it.
+Flandia Yingman and 孔明亲 both are the nicknames I usually use for online surfing. Alternatively, feel free to call me by Harry if you feel that's better.
 
-I love to make friends 👭! If you wish, just follow me on GitHub or open an issue in this repo!
+I am especially interested in developing semantical best practices to program in a elegant and symmetric way.
 
 #### Why "Flandia Yingman"? 
 
 It's from a old light novel... Flandre Scarlet? Almost, but no 😀.
 
-#### Why "孔明亲"? 
-
-孔明 is my favorite anime character in a famous mobile game "Fate: Grand Order". While the suffix 亲 is used for calling intimates.
-
 ### 🔭 I’m currently working on ...
 
-- College courses. I must be working really hard on it for my future... :P
-
 - [Arkwaifu](https://github.com/FlandiaYingman/arkwaifu): The website lists all AVG assets in the game Arknights, as the webmaster.
-
-- [Penguin Stats](https://github.com/penguin-statistics/backend-next): The Penguin Stats website (penguin-stats.io), as an amateur reviewer (and often raise some crazy stuff).
+- [USThing](https://usthing.xyz/): A student-driven all-in-one app for HKUST students, as the head of backend team, and guiding the app team as well.
+- [MLscript](https://github.com/hkust-taco/mlscript): The MLscript programming language.
 
 ### 🌱 I’m currently learning ...
 
- - English Language 😟.
- - Algebra and Calculus 🤪. (almost crazy)
- - Physics with Calculus 😢.
- - Computer Science 💻❤️.
+ - Functional Programming
+ - Lambda Calculus and System F
 
 ### 👯 I’m looking to collaborate on ...
 
