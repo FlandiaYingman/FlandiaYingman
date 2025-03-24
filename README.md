@@ -1,6 +1,8 @@
-### Hi there 👋 
+### Hi there, I'm Harry ... 👋 
 
-I'm Harry, an undergraduate at HKUST majored in Computer Science. I am highly interested in various fields in computer science, particularly in <ins>theoretical computer science (theory B)</ins> and in developing semantical best practices to program in a elegant and symmetric way. I am methodically experienced in developing and maintaining client/server apps and websites. I am also experienced in and currently exploring more about data mining, manipulation and visualization.
+An undergraduate at the Hong Kong University of Science and Technology, majored in Computer Science. 
+
+I am highly interested in various fields in computer science, particularly in <ins>theoretical computer science (theory B)</ins> and in developing semantical best practices to program in a elegant and symmetric way. I am methodically experienced in developing and maintaining client/server apps and websites. I am also experienced in and currently exploring more about data mining, manipulation and visualization.
 
 Flandia and 孔明亲 both are the nicknames I usually use for online surfing. 
 
